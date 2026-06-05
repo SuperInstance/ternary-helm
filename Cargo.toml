@@ -1,0 +1,6 @@
+[package]
+name = "ternary-helm"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Steering and control for fleet navigation in ternary state spaces"
