@@ -86,3 +86,12 @@ Part of the SuperInstance ternary fleet library. This crate handles the *steerin
 ## License
 
 MIT
+
+## See Also
+- **ternary-captain** — related fleet coordination
+- **ternary-navigator** — related fleet coordination
+- **ternary-compass** — related fleet coordination
+- **ternary-voyage** — related fleet coordination
+- **ternary-room** — related fleet coordination
+- **ternary-control** — related fleet coordination
+
